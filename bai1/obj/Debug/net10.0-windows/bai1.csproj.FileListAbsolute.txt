@@ -1,0 +1,6 @@
+D:\Lập_trình_trực_quan\BT luyện tập\chương 8\bai1\bai1\obj\Debug\net10.0-windows\bai1.Form1.resources
+D:\Lập_trình_trực_quan\BT luyện tập\chương 8\bai1\bai1\obj\Debug\net10.0-windows\bai1.csproj.GenerateResource.cache
+D:\Lập_trình_trực_quan\BT luyện tập\chương 8\bai1\bai1\obj\Debug\net10.0-windows\bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập_trình_trực_quan\BT luyện tập\chương 8\bai1\bai1\obj\Debug\net10.0-windows\bai1.AssemblyInfoInputs.cache
+D:\Lập_trình_trực_quan\BT luyện tập\chương 8\bai1\bai1\obj\Debug\net10.0-windows\bai1.AssemblyInfo.cs
+D:\Lập_trình_trực_quan\BT luyện tập\chương 8\bai1\bai1\obj\Debug\net10.0-windows\bai1.csproj.CoreCompileInputs.cache
